@@ -137,6 +137,14 @@
 	],
 	"projects": [
 		{
+			"name": "Portafolio minimalista",
+			"isActive": true,
+			"description": "Portafolio minimalista desarrollado con Astro, HTML y CSS",
+			"highlights": ["Astro", "HTML", "CSS", "Desarrollo Web"],
+			"url": "https://codi.link",
+			"github": "https://github.com/midudev/codi.link"
+		},
+		{
 			"name": "Calculadora",
 			"isActive": true,
 			"description": "Calculadora básica hecha con react",
@@ -161,7 +169,7 @@
 			"name": "Testimonios para Free Code Camp",
 			"isActive": true,
 			"description": "Clon de la pagina para testimonios del sitio web FreeCodeCamp desarrollada con React, HTML y CSS",
-			"highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
+			"highlights": ["Desarrollo web con React", "HTML", "CSS", "Desarrollo Web"],
 			"url": "https://codi.link",
 			"github": "https://github.com/midudev/codi.link"
 		}
