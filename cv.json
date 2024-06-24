@@ -2,11 +2,11 @@
 	"basics": {
 		"name": "Byron Santiago Espinosa Guarnizo",
 		"label": "Frontend Developer con 2 años de experiencia.",
-		"image": "./assets/perfil-cv.webp",
+		"image": "https://imagedelivery.net/hddwUBKbSwnT21DJZQgeUw/1f1ee2a8-df36-402a-3f3f-3f247319bc00/public",
 		"email": "bsantiagoeg@gmail.com",
 		"phone": "+593 989538812",
 		"url": "https://midu.dev",
-		"summary": "2 años de experiencia como Desarrollador Frontend. Actualmente trabajo para una empresa con cede en Ucrania desarrollando y manteniedo las funcioanlidades de la plataformas que ofrecen(CRM y Web Trader). Además realizo el mantenimiento de los diferentes landings que ofrece la empresa a sus clientes, así como el desarrollo de nuevos landings. Vivo en Loja, Ecuador.",
+		"summary": "Cuento con 2 años de experiencia como Desarrollador Frontend. Actualmente trabajo para una empresa con sede en Ucrania, donde desarrollo y mantengo las funcionalidades de sus plataformas, incluyendo un CRM y un Web Trader. Además, me encargo del mantenimiento de las diferentes páginas de aterrizaje (landings) que la empresa ofrece a sus clientes, así como del desarrollo de nuevas páginas. Resido en Loja, Ecuador.",
 		"location": {
 			"address": "Zamora Huayco Loja - Ecuador",
 			"postalCode": "08820",
@@ -34,7 +34,7 @@
 			"url": "https://pentview.com/",
 			"startDate": "2022-07-15",
 			"endDate": null,
-			"summary": "Mantenimiento y desarrollo de funcionalidades en los diferentes módulos y componentes de las plataformas que ofrece la empresa(CRM y Web Trader). Desarrollo y mantenimiento de Landings Page para los clientes de la empresa. Maquetación y estilizados para los diferentes módulos y componentes en las plataformas CRM y Web Trader",
+			"summary": "Mantenimiento y desarrollo de funcionalidades en los diferentes módulos y componentes de las plataformas que ofrece la empresa (CRM y Web Trader). Desarrollo y mantenimiento de páginas de aterrizaje (landing pages) para los clientes de la empresa. Maquetación y estilizado de los diversos módulos y componentes en las plataformas CRM y Web Trader.",
 			"highlights": ["Started the company"]
 		},
 		{
@@ -43,7 +43,7 @@
 			"url": "https://pentview.com/",
 			"startDate": "2021-12-01",
 			"endDate": "2022-07-15",
-			"summary": "Realice pruebas unitarias para las funcionalidades en los diferentes módulos y componentes de las plataformas que ofrece la empresa(CRM y Web Trader). Realice pruebas a los endpoints desarrollados, haciendo uso de la aplicación Postman. Desarrollo de pruebas automatizadas con el framework cypress",
+			"summary": "Realización de pruebas unitarias para las funcionalidades en los diferentes módulos y componentes de las plataformas que ofrece la empresa (CRM y Web Trader). Pruebas a los endpoints desarrollados utilizando la aplicación Postman. Desarrollo de pruebas automatizadas con el framework Cypress.",
 			"highlights": ["Started the company"]
 		}
 	],
@@ -67,7 +67,7 @@
 			"url": "https://certiprof.com/"
 		},
 		{
-			"name": "Scrum Foundation Professional Certificate",
+			"name": "Scrum Foundation Professional Certificate (SFPC)-(Spanish)",
 			"date": "2020-08",
 			"issuer": "CertiProf",
 			"url": "https://certiprof.com/"
@@ -145,25 +145,32 @@
 			"github": "https://github.com/midudev/codi.link"
 		},
 		{
+			"name": "SpaceX Launches",
+			"isActive": true,
+			"description": "Sitio web para consulta de lanzamientos espaciales.",
+			"highlights": ["Consumo de API con Astro", "Tailwind CSS", "Desarrollo web", "Static page"],
+			"url": "https://astro-spacex-launches.netlify.app/"
+		},
+		{
+			"name": "Task app whit react",
+			"isActive": true,
+			"description": "App para crear tareas, marcarlas como realizadas y eliminarlas desarrollada con React.",
+			"highlights": ["React", "Javascript", "HTML", "CSS", "Desarrollo web"],
+			"url": "https://react-task-app-santiago.netlify.app"
+		},
+		{
 			"name": "Calculadora",
 			"isActive": true,
-			"description": "Calculadora básica hecha con react",
-			"highlights": ["JavaScript & TypeScript", "HTML", "CSS"],
-			"url": "https://mars.codes"
+			"description": "Calculadora básica desarrollada con react",
+			"highlights": ["JavaScript & TypeScript", "HTML", "CSS", "Reac"],
+			"url": "https://reac-calculator-santiago.netlify.app/"
 		},
 		{
 			"name": "click counter react",
 			"isActive": true,
 			"description": "Contador de clicks desarrollado con react",
-			"highlights": ["JavaScript & TypeScript", "HTML", "CSS"],
+			"highlights": ["JavaScript & TypeScript", "HTML", "CSS", "Reac"],
 			"url": "https://adventjs.dev"
-		},
-		{
-			"name": "SpaceX Launches",
-			"isActive": true,
-			"description": "Sitio web para consulta de lanzamientos espaciales.",
-			"highlights": ["Consumo de API con Astro", "Estilos manejados con Tailwind"],
-			"url": "https://codember.dev"
 		},
 		{
 			"name": "Testimonios para Free Code Camp",
