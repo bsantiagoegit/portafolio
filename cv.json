@@ -170,14 +170,14 @@
 			"isActive": true,
 			"description": "Contador de clicks desarrollado con react",
 			"highlights": ["JavaScript & TypeScript", "HTML", "CSS", "Reac"],
-			"url": "https://adventjs.dev"
+			"url": "https://react-click-counter-santiago.netlify.app"
 		},
 		{
 			"name": "Testimonios para Free Code Camp",
 			"isActive": true,
 			"description": "Clon de la pagina para testimonios del sitio web FreeCodeCamp desarrollada con React, HTML y CSS",
 			"highlights": ["Desarrollo web con React", "HTML", "CSS", "Desarrollo Web"],
-			"url": "https://codi.link",
+			"url": "https://react-fcc-testimonia-clone-santiago.netlify.app",
 			"github": "https://github.com/midudev/codi.link"
 		}
 	]
